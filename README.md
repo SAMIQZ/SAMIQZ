@@ -24,7 +24,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SAMIQZ&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/SAMIQZ?label=Followers&style=for-the-badge&color=1E3A8A&labelColor=0B1F3A" alt="Followers"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
 
