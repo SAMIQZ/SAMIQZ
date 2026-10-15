@@ -132,6 +132,7 @@ Cisco Cybersecurity Operations Fundamentals Coursera ✅
 Google Cybersecurity Professional Certificate Google ✅
 
 IBM Cybersecurity Certificate IBM ✅
+
 Network Administrator Certificate UNRWA DTC 2021
 
 </div>
